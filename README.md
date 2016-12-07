@@ -30,4 +30,4 @@ Enter destination for folder(Expected format) :
                 S02E01 -
                 S02E02
 
-A file binge-timer.txt is the report.See the [sample.](binge-timer.txt)
+A file binge-timer.txt is the report, saved in the same path as the season folders.See the [sample.](binge-timer.txt)
