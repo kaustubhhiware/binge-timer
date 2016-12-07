@@ -4,9 +4,9 @@ Compute time for viewing all episodes in a directory
 
 # Why this ?
 
-So I decided to binge watch Doctor Who, because sci-fi + rom-com + time travel + brit.
+So I decided to binge watch Doctor Who 2005 revised, because sci-fi + rom-com + time travel + brit.
 
-<img src="">
+<img src="https://i.ytimg.com/vi/Xg8M-8BqTGs/maxresdefault.jpg">
 
 I ended up watching it in 9 days flat (9 seasons+Specials). When I tried to find
 the running time, different sources (tiii.me, binge-clock, stackexchange, reddit)
