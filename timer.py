@@ -71,14 +71,17 @@ def run_time(path,outstr,binge):
 	print path
 	outstr += path+"\n"
 	episodes = os.listdir(path)
+	videos = list()		# lazy approach because not all were listed
 	for filer in episodes:
-		if not is_video_file(filer):
-			episodes.remove(filer)
+		# print filer,is_video_file(filer)
+		if is_video_file(filer):
+			videos.append(filer)
 
-	for episode in episodes:
+
+	for episode in videos:
 		time = get_time(path+'/'+episode)
 		if time=="N/A":
-			episodes.remove(episode)
+			videos.remove(episode)
 			continue
 		t = time.split(':')
 		binge[2] += int(float(t[2]))

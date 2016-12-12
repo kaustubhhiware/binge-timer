@@ -26,16 +26,17 @@ Total time elapsed : 9:59:3
 	Doctor Who - S02E04 - The Girl in the Fireplace.avi	00:44:46.04		3:56:41
 	Doctor Who - S02E05 - Rise Of The Cyberman.avi	00:46:06.00		4:42:47
 	Doctor Who - S02E06 - The Age Of Steel.avi	00:45:55.08		5:28:42
-	Doctor Who - S02E08 - The Impossible Planet.avi	00:45:23.04		6:14:5
-	Doctor Who - S02E09 - The Satan Pit.avi	00:47:17.04		7:1:22
-	Doctor Who - S02E10 - Love and Monsters.avi	00:45:11.04		7:46:33
-	Doctor Who - S02E11 - Fear Her.avi	00:43:56.04		8:30:29
-	Doctor Who - S02E12 - Army of Ghosts.avi	00:43:26.04		9:13:55
-	Doctor Who - S02E13 - Doomsday.avi	00:46:27.48		10:0:22
+	Doctor Who - S02E07 - The Idiots Lantern.avi	00:45:12.04		6:13:54
+	Doctor Who - S02E08 - The Impossible Planet.avi	00:45:23.04		6:59:17
+	Doctor Who - S02E09 - The Satan Pit.avi	00:47:17.04		7:46:34
+	Doctor Who - S02E10 - Love and Monsters.avi	00:45:11.04		8:31:45
+	Doctor Who - S02E11 - Fear Her.avi	00:43:56.04		9:15:41
+	Doctor Who - S02E12 - Army of Ghosts.avi	00:43:26.04		9:59:7
+	Doctor Who - S02E13 - Doomsday.avi	00:46:27.48		10:45:34
 
-Time to complete this season : 10:0:22
+Time to complete this season : 10:45:34
 
-Total time elapsed : 19:59:25
+Total time elapsed : 20:44:37
 
 
 /media/kaustubh/Forever/DC/Doctor Who/Season 3
@@ -56,7 +57,7 @@ Total time elapsed : 19:59:25
 
 Time to complete this season : 10:53:34
 
-Total time elapsed : 30:52:59
+Total time elapsed : 31:38:11
 
 
 /media/kaustubh/Forever/DC/Doctor Who/Season 4
@@ -82,7 +83,7 @@ Total time elapsed : 30:52:59
 
 Time to complete this season : 16:34:44
 
-Total time elapsed : 47:27:43
+Total time elapsed : 48:12:55
 
 
 /media/kaustubh/Forever/DC/Doctor Who/Season 5
@@ -98,10 +99,11 @@ Total time elapsed : 47:27:43
 	Doctor Who - S05E10 - Vincent And The Doctor.avi	00:46:34.68		7:40:9
 	Doctor Who - S05E11 - The Lodger.avi	00:42:31.01		8:22:40
 	Doctor Who - S05E12 - The Pandorica Opens.avi	00:48:41.00		9:11:21
+	Doctor Who - S05E13 - The Big Bang.avi	00:53:41.16		10:5:2
 
-Time to complete this season : 9:11:21
+Time to complete this season : 10:5:2
 
-Total time elapsed : 56:39:4
+Total time elapsed : 58:17:57
 
 
 /media/kaustubh/Forever/DC/Doctor Who/Season 6
@@ -113,13 +115,15 @@ Total time elapsed : 56:39:4
 	Doctor Who - S06E05 - The Rebel Flesh.avi	00:43:15.52		4:29:10
 	Doctor Who - S06E06 - The Almost People.avi	00:45:05.72		5:14:15
 	Doctor Who - S06E07 - A Good Man Goes to War.avi	00:48:17.04		6:2:32
-	Doctor Who - S06E09 - Night Terrors.avi	00:42:29.21		6:45:1
-	Doctor Who - S06E12 - Closing Time.avi	00:45:04.40		7:30:5
-	Doctor Who - S06E13 - The Wedding Of River Song.avi	00:45:18.76		8:15:23
+	Doctor Who - S06E08 - Lets Kill Hitler.avi	00:48:02.68		6:50:34
+	Doctor Who - S06E09 - Night Terrors.avi	00:42:29.21		7:33:3
+	Doctor Who - S06E11 - The God Complex.avi	00:47:45.56		8:20:48
+	Doctor Who - S06E12 - Closing Time.avi	00:45:04.40		9:5:52
+	Doctor Who - S06E13 - The Wedding Of River Song.avi	00:45:18.76		9:51:10
 
-Time to complete this season : 8:15:23
+Time to complete this season : 9:51:10
 
-Total time elapsed : 64:54:27
+Total time elapsed : 68:9:7
 
 
 /media/kaustubh/Forever/DC/Doctor Who/Season 7
@@ -128,35 +132,37 @@ Total time elapsed : 64:54:27
 	Doctor Who - S07E03 - A Town Called Mercy.mp4	00:44:09.43		2:17:34
 	Doctor Who - S07E04 - The Power of Three.mp4	00:41:09.08		2:58:43
 	Doctor Who - S07E05 - The Angels Take Manhattan.mp4	00:44:14.08		3:42:57
-	Doctor Who - S07E07 - The Rings of Akhaten.mp4	00:40:45.40		4:23:42
-	Doctor Who - S07E08 - Cold War.mp4	00:40:49.81		5:4:31
-	Doctor Who - S07E09 - Hide.mp4	00:44:15.72		5:48:46
-	Doctor Who - S07E10 - Journey to the Centre of the TARDIS.mp4	00:44:17.11		6:33:3
-	Doctor Who - S07E11 - The Crimson Horror.mp4	00:44:09.69		7:17:12
-	Doctor Who - S07E12 - Nightmare In Silver.mp4	00:44:05.42		8:1:17
-	Doctor Who - S07E06 - The Bells of St John.mp4	00:44:42.45		8:45:59
+	Doctor Who - S07E13 - The Name of the Doctor.mp4	00:44:15.21		4:27:12
+	Doctor Who - S07E07 - The Rings of Akhaten.mp4	00:40:45.40		5:7:57
+	Doctor Who - S07E08 - Cold War.mp4	00:40:49.81		5:48:46
+	Doctor Who - S07E09 - Hide.mp4	00:44:15.72		6:33:1
+	Doctor Who - S07E10 - Journey to the Centre of the TARDIS.mp4	00:44:17.11		7:17:18
+	Doctor Who - S07E11 - The Crimson Horror.mp4	00:44:09.69		8:1:27
+	Doctor Who - S07E12 - Nightmare In Silver.mp4	00:44:05.42		8:45:32
+	Doctor Who - S07E06 - The Bells of St John.mp4	00:44:42.45		9:30:14
 
-Time to complete this season : 8:45:59
+Time to complete this season : 9:30:14
 
-Total time elapsed : 73:40:26
+Total time elapsed : 77:39:21
 
 
 /media/kaustubh/Forever/DC/Doctor Who/Season 8
-	Doctor Who - S08E02 - Into The Dalek.mp4	00:46:45.80		0:46:45
-	Doctor Who - S08E03 - Robot of Sherwood.mp4	00:46:15.57		1:33:0
-	Doctor Who - S08E04 - Listen.mkv	00:47:21.02		2:20:21
-	Doctor Who - S08E05 - Time Heist.mp4	00:45:21.58		3:5:42
-	Doctor Who - S08E12 - Death In Heaven.mp4	00:56:26.44		4:2:8
-	Doctor Who - S08E06 - The Caretaker.mp4	00:45:11.96		4:47:19
-	Doctor Who - S08E07 - Kill The Moon.mkv	00:44:31.59		5:31:50
-	Doctor Who - S08E08 - Mummy on the Orient Express.mp4	00:46:03.93		6:17:53
-	Doctor Who - S08E09 - Flatline.mp4	00:42:49.64		7:0:42
-	Doctor Who - S08E10 - In the Forest of the Night.avi	00:44:45.72		7:45:27
-	Doctor Who - S08E11 - Dark Water.mp4	00:46:06.84		8:31:33
+	Doctor Who - S08E01 - Deep Breath.mp4	01:16:23.85		1:16:23
+	Doctor Who - S08E02 - Into The Dalek.mp4	00:46:45.80		2:3:8
+	Doctor Who - S08E03 - Robot of Sherwood.mp4	00:46:15.57		2:49:23
+	Doctor Who - S08E04 - Listen.mkv	00:47:21.02		3:36:44
+	Doctor Who - S08E05 - Time Heist.mp4	00:45:21.58		4:22:5
+	Doctor Who - S08E12 - Death In Heaven.mp4	00:56:26.44		5:18:31
+	Doctor Who - S08E06 - The Caretaker.mp4	00:45:11.96		6:3:42
+	Doctor Who - S08E07 - Kill The Moon.mkv	00:44:31.59		6:48:13
+	Doctor Who - S08E08 - Mummy on the Orient Express.mp4	00:46:03.93		7:34:16
+	Doctor Who - S08E09 - Flatline.mp4	00:42:49.64		8:17:5
+	Doctor Who - S08E10 - In the Forest of the Night.avi	00:44:45.72		9:1:50
+	Doctor Who - S08E11 - Dark Water.mp4	00:46:06.84		9:47:56
 
-Time to complete this season : 8:31:33
+Time to complete this season : 9:47:56
 
-Total time elapsed : 82:11:59
+Total time elapsed : 87:27:17
 
 
 /media/kaustubh/Forever/DC/Doctor Who/Season 9
@@ -175,7 +181,7 @@ Total time elapsed : 82:11:59
 
 Time to complete this season : 9:27:46
 
-Total time elapsed : 91:39:45
+Total time elapsed : 96:55:3
 
 
 /media/kaustubh/Forever/DC/Doctor Who/Special Episodes
@@ -217,6 +223,6 @@ Total time elapsed : 91:39:45
 
 Time to complete this season : 16:30:53
 
-Total time elapsed : 108:10:38
+Total time elapsed : 113:25:56
 
 
