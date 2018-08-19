@@ -74,17 +74,17 @@ def getLength(filename):
     # :http://stackoverflow.com/questions/3844430/how-to-get-the-duration-of-a-video-in-python/3844467#3844467
     result = subprocess.Popen(["ffprobe", filename],
                               stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-    return [x for x in result.stdout.readlines() if "Duration" in x]
+    return [x.decode("utf-8") for x in result.stdout.readlines() if b"Duration" in x]
 
 
 def get_time(filename):
     """
         Get time of each video in hh:mm:ss format
     """
-    # print getLength(loc)    # ['  Duration: 00:46:21.06, start: 0.000000,
+    # print(getLength(loc))    # ['  Duration: 00:46:21.06, start: 0.000000,
     # bitrate: 1054 kb/s\n']
     details = getLength(filename)[0].split(',')
-    # print details[0]#   Duration: 00:46:21.06
+    # print(details[0]) #   Duration: 00:46:21.06
     d = details[0].split(': ')
     return d[1]
 
@@ -94,12 +94,12 @@ def run_time(path, outstr, binge):
         Find run time of all videofiles.
     """
     sleep(1)
-    print path
+    print(path)
     outstr += path+"\n"
     episodes = os.listdir(path)
     videos = list()        # lazy approach because not all were listed
     for filer in episodes:
-        # print filer,is_video_file(filer)
+        # print(filer,is_video_file(filer))
         if is_video_file(filer):
             videos.append(filer)
 
@@ -115,11 +115,11 @@ def run_time(path, outstr, binge):
         binge[0] += int(t[0]) + int(binge[1]/60)
         binge[1] %= 60
 
-        print "\t", episode, "\t", time, "\t\t", binge[0], ":", binge[1], ":", binge[2]
+        print( "\t", episode, "\t", time, "\t\t", binge[0], ":", binge[1], ":", binge[2])
         outstr += "\t"+episode+"\t"+time+"\t\t" + \
             str(binge[0])+":"+str(binge[1])+":"+str(binge[2])+"\n"
 
-    print "\nTime to complete this season : ", binge[0], ":", binge[1], ":", binge[2]
+    print ("\nTime to complete this season : ", binge[0], ":", binge[1], ":", binge[2])
     outstr += "\nTime to complete this season : " + \
         str(binge[0])+":"+str(binge[1])+":"+str(binge[2])+"\n"
 
@@ -134,11 +134,11 @@ def main():
 
     # outfile= open('info.txt', 'a')
     outstr = ""
-    path = raw_input(
+    path = input(
         "\n\nEnter the complete path of the directory whose length you want to know: ")
 
     seasons = os.listdir(path)
-    # print seasons
+    # print (seasons)
 
     total = [None]*3
     total[0] = 0  # hours
@@ -159,13 +159,13 @@ def main():
         total[2] %= 60
         total[0] += binge[0] + int(total[1]/60)
         total[1] %= 60
-        print "\nTotal time elapsed : ", total[0], ":", total[1], ":", total[2]
-        print "\n\n"
+        print ("\nTotal time elapsed : ", total[0], ":", total[1], ":", total[2])
+        print ("\n\n")
         outstr += "\nTotal time elapsed : " + \
             str(total[0])+":"+str(total[1])+":"+str(total[2])+"\n\n\n"
 
     # make a report
-    print "Report saved at "+path
+    print ("Report saved at "+path)
     outfile = open(path+'/binge-timer.txt', 'w')
     outfile.write(outstr)
     outfile.close()
